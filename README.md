@@ -1,4 +1,3 @@
-<img width="1919" height="1039" alt="interface" src="https://github.com/user-attachments/assets/5aa19d2a-174c-4aec-a70b-11327a9bdc7e" />
 # Speaker Configuration Simulator
 
 > An interactive simulation tool developed in MATLAB, designed to calculate and visualize the optimal speaker setup in various rooms and environments.
@@ -61,7 +60,7 @@ Follow these steps to run the simulator on your local machine.
 
 4. Adjust the listening position to see how the optimal monitor angles and distances are automatically calculated.
 
-> <img width="1919" height="1039" alt="interface" src="https://github.com/user-attachments/assets/cceb7d69-387c-49ea-ba2c-94768c4bd02c" />
+> <img width="1919" height="1039" alt="interface" src="https://github.com/user-attachments/assets/5aa19d2a-174c-4aec-a70b-11327a9bdc7e" />
 
 ## Contributing
 
