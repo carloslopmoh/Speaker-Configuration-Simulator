@@ -20,8 +20,7 @@
 
 * **Environment / Language:** MATLAB
 * **UI Framework:** MATLAB App Designer
-* **Validation Tool:** **Submap** (Global Audio Solutions) <img width="6000" height="3113" alt="interfaz_page-0001" src="https://github.com/user-attachments/assets/04d231e8-9a49-4c8f-a982-3859c6061f7a" />
-- Used to verify and cross-check the accuracy of the acoustic simulations.
+* **Validation Tool:** **Submap** (Global Audio Solutions) - Used to verify and cross-check the accuracy of the acoustic simulations.
 
 ## Installation and Usage
 
