@@ -51,7 +51,7 @@ Follow these steps to run the simulator on your local machine.
 
 ## How to Use
 
-1. Launch the application in MATLAB.
+1. Launch the application in MATLAB (software_eng.mlapp).
 
 2. Input the dimensions of your room (Width x Length).
 
